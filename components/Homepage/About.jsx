@@ -24,7 +24,7 @@ const About = () => {
                 Our team is dedicated to providing personalized attention, ensuring that your every need is met with kindness and understanding. Whether its the warmth of our staff, the tranquil atmosphere, or the luxurious surroundings, everything is designed to make you feel not only at ease but also appreciated. We strive to create an environment where you can relax, unwind, and immerse yourself in the beauty and serenity of your surroundings.
    
 
-                At the heart of Macenas Luxury Hotels is a spirit of hospitality that celebrates not just luxury, but also the human connection. We hope that your time here adds a meaningful chapter to your journey, filled with moments that inspire joy, peace, and reflection. Our deepest wish is that this experience becomes a cherished memory—one that stays with you long after your visit, and invites you to return."
+                At the heart of Macenas Luxury Hotels is a spirit of hospitality that celebrates not just luxury, but also the human connection. We hope that your time here adds a meaningful chapter to your journey, filled with moments that inspire joy, peace, and reflection. Our deepest wish is that this experience becomes a cherished memory—one that stays with you long after your visit, and invites you to return.
 
 
               </p>
